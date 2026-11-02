@@ -4,8 +4,8 @@ Repositorio oficial de descargas y actualizaciones de RadioNube Streamer.
 ---
 
 ### 🚀 Última Versión Disponible
-- **Última compilación**: 2026-10-30 15:00 (UTC-3)
-- **Link para ver novedades y Descargar**: [Aquí](https://github.com/altomarketing/radionube-studio/releases/tag/v0.1.7) (Versión **v0.1.7**)
+- **Última compilación**: 2026-11-02 16:55 (UTC-3)
+- **Link para ver novedades y Descargar**: [Aquí](https://github.com/altomarketing/radionube-studio/releases/tag/v0.1.8) (Versión **v0.1.8**)
 
 ---
 
