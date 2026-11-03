@@ -4,15 +4,15 @@ Repositorio oficial de descargas y actualizaciones de RadioNube Streamer.
 ---
 
 ### 🚀 Última Versión Disponible
-- **Última compilación**: 2026-11-02 16:55 (UTC-3)
-- **Link para ver novedades y Descargar**: [Aquí](https://github.com/altomarketing/radionube-studio/releases/tag/v0.1.8) (Versión **v0.1.8**)
+- **Última compilación**: 2026-11-02 21:08 (UTC-3)
+- **Link para ver novedades y Descargar**: [Aquí](https://github.com/altomarketing/radionube-studio/releases/tag/v0.1.9) (Versión **v0.1.9**)
 
-#### 📦 Enlaces de Descarga Directa (v0.1.8):
-- 🪟 **Windows Instalador (.exe)**: [RadioNube.Streamer_0.1.8_x64-setup.exe](https://github.com/altomarketing/radionube-studio/releases/download/v0.1.8/RadioNube.Streamer_0.1.8_x64-setup.exe)
-- 🪟 **Windows (.msi)**: [RadioNube.Streamer_0.1.8_x64_en-US.msi](https://github.com/altomarketing/radionube-studio/releases/download/v0.1.8/RadioNube.Streamer_0.1.8_x64_en-US.msi)
-- 🐧 **Linux (.AppImage)**: [RadioNube.Streamer_0.1.8_amd64.AppImage](https://github.com/altomarketing/radionube-studio/releases/download/v0.1.8/RadioNube.Streamer_0.1.8_amd64.AppImage)
-- 🐧 **Linux (.deb)**: [RadioNube.Streamer_0.1.8_amd64.deb](https://github.com/altomarketing/radionube-studio/releases/download/v0.1.8/RadioNube.Streamer_0.1.8_amd64.deb)
-- 🐧 **Linux (.rpm)**: [RadioNube.Streamer-0.1.8-1.x86_64.rpm](https://github.com/altomarketing/radionube-studio/releases/download/v0.1.8/RadioNube.Streamer-0.1.8-1.x86_64.rpm)
+#### 📦 Enlaces de Descarga Directa (v0.1.9):
+- 🪟 **Windows Instalador (.exe)**: [RadioNube.Streamer_0.1.9_x64-setup.exe](https://github.com/altomarketing/radionube-studio/releases/download/v0.1.9/RadioNube.Streamer_0.1.9_x64-setup.exe)
+- 🪟 **Windows (.msi)**: [RadioNube.Streamer_0.1.9_x64_en-US.msi](https://github.com/altomarketing/radionube-studio/releases/download/v0.1.9/RadioNube.Streamer_0.1.9_x64_en-US.msi)
+- 🐧 **Linux (.AppImage)**: [RadioNube.Streamer_0.1.9_amd64.AppImage](https://github.com/altomarketing/radionube-studio/releases/download/v0.1.9/RadioNube.Streamer_0.1.9_amd64.AppImage)
+- 🐧 **Linux (.deb)**: [RadioNube.Streamer_0.1.9_amd64.deb](https://github.com/altomarketing/radionube-studio/releases/download/v0.1.9/RadioNube.Streamer_0.1.9_amd64.deb)
+- 🐧 **Linux (.rpm)**: [RadioNube.Streamer-0.1.9-1.x86_64.rpm](https://github.com/altomarketing/radionube-studio/releases/download/v0.1.9/RadioNube.Streamer-0.1.9-1.x86_64.rpm)
 
 ---
 
